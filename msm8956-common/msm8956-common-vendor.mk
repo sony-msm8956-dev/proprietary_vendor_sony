@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/fidocrypto.mdt:system/vendor/firmware/fidocrypto.mdt \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
+    vendor/sony/msm8956-common/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/touch_module_id_0x90.img:system/vendor/firmware/touch_module_id_0x90.img \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/touch_module_id_0x91.img:system/vendor/firmware/touch_module_id_0x91.img \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/touch_module_id_0x92.img:system/vendor/firmware/touch_module_id_0x92.img \
