@@ -57,7 +57,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/fidocrypto.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/fidocrypto.mdt \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/fw_bcmdhd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fw_bcmdhd.bin \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fw_bcmdhd_apsta.bin \
-    vendor/sony/msm8956-common/proprietary/vendor/firmware/libpn547_fw.so:$(TARGET_COPY_OUT_VENDOR)/firmware/libpn547_fw.so \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/touch_module_id_0x90.img:$(TARGET_COPY_OUT_VENDOR)/firmware/touch_module_id_0x90.img \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/touch_module_id_0x91.img:$(TARGET_COPY_OUT_VENDOR)/firmware/touch_module_id_0x91.img \
     vendor/sony/msm8956-common/proprietary/vendor/firmware/touch_module_id_0x92.img:$(TARGET_COPY_OUT_VENDOR)/firmware/touch_module_id_0x92.img \
@@ -337,6 +336,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8956-common/proprietary/vendor/lib/libpdmapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpdmapper.so \
     vendor/sony/msm8956-common/proprietary/vendor/lib/libpdnotifier.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpdnotifier.so \
     vendor/sony/msm8956-common/proprietary/vendor/lib/libperipheral_client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libperipheral_client.so \
+    vendor/sony/msm8956-common/proprietary/vendor/lib/libpn547_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn547_fw.so \
     vendor/sony/msm8956-common/proprietary/vendor/lib/libqcci_legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqcci_legacy.so \
     vendor/sony/msm8956-common/proprietary/vendor/lib/libqdi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqdi.so \
     vendor/sony/msm8956-common/proprietary/vendor/lib/libqdp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqdp.so \
